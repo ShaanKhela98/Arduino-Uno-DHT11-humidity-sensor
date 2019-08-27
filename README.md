@@ -1,7 +1,6 @@
 # SoilHive
-Soil Hive irrigation system
 
-A project to create an environment in which a plant grows most optimally. By getting tests and using that to help lower the deficiencies of the plants growth and enhancing the nutrients or temperature needed to help the plant grow faster and stronger. I worked with an Arduino Uno along with materials such as a liquid crystal display, temperature sensors, and humidity sensors.
+Working with Arduino Uno along with materials such as a liquid crystal display, temperature sensors, and humidity sensors. I connected my Arduino to a breadboard.
 
 
 Here are the ranges and accuracy of the DHT11:
