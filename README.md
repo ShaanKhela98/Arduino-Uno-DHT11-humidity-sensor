@@ -1,6 +1,6 @@
 # DHT11 Humidity Sensor
 
-Working with Arduino Uno along with materials such as a liquid crystal display, temperature sensors, and humidity sensors. I connected my Arduino to a breadboard.
+Working with Arduino Uno to connect with materials such as a liquid crystal display, temperature sensors, and humidity sensors.
 
 
 ![DHT11 Sensor](/TempHumid.jpg)
