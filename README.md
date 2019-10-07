@@ -3,11 +3,11 @@
 Working with Arduino Uno along with materials such as a liquid crystal display, temperature sensors, and humidity sensors. I connected my Arduino to a breadboard.
 
 
-Here are the ranges and accuracy of the DHT11:
-
 ![DHT11 Sensor](/TempHumid.jpg)
 
 
+
+Here are the ranges and accuracy of the DHT11:
 Humidity Range: 20-90% RH
 Humidity Accuracy: ±5% RH
 Temperature Range: 0-50 °C
